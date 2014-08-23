@@ -1,4 +1,4 @@
-/ConnectedWorld/frameworks/js-bindings/
-/ConnectedWorld/runtime/
+ConnectedWorld/frameworks/js-bindings/
+ConnectedWorld/runtime/
 .idea/
 /.idea/workspace.xml
